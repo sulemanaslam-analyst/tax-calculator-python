@@ -1,2 +1,16 @@
-# tax-calculator-python
-A simple Python-based tax calculator that computes income tax based on predefined slabs. Includes command-line interaction and an online demo for quick testing.
+# Tax Calculator (Python)
+
+This is a simple Python program to calculate tax based on income.
+
+## How to Run
+
+1. Install Python
+2. Download this file
+3. Run:
+
+python tax_calculator.py
+
+## Example
+
+Enter your income: 1000000  
+Output: Your tax is: 50000
